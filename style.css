@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-image: url(pic/10.png);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+.text_part{
+   
+    width: 50%;
+    height: 600px;
+    margin-left: 60px;
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
+.text_part h1{
+     font-size: 40px;
+     margin-top: 90px;
+     margin-left: 50px;
+     color: black;   
+}
+.text_part h2{
+    font-size: 60px;
+    margin-left: 50px;
+    margin-top: 10px;
+    color: rgb(233, 15, 88);   
+}
+.text_part p{
+    font-size: 30px;
+    font-family: Times new roman;
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.text_part button{
+    margin-top: 50px;
+    margin-left: 80px;
+    height: 40px;
+    width: 120px;
+    font-size: 20px;
+   background-color:rgba(247, 14, 92, 0.946); 
+   border-radius: 5px;
+} 
+  /* section First div end */
+  /*section second div start*/
+.header2-part{
+     height: 100%;
+     width: 100%;
+     display: flex;
+     background-image: url(pic/biography-bg.png);
+     background-repeat: no-repeat;
+}
+.picter_part{
+    width: 50%;
+    height: 600px;
+    background-repeat: no-repeat;
+    margin-left: 40px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+.text2_part{
+    width: 50%;
+    height: 600px;  
+}
+.text2_part h2{
+    font-size: 40px;
+    margin-top: 130px;
+    margin-left: 80px;
+    color: black;
+}
+.text2_part p{
+    font-size: 20px;
+    margin-top: 40px;
+    margin-left: 80px;
+    color: rgb(7, 96, 213);
+    margin-right: 30px; 
+}
+.second_button{
+     height: 40px;
+     width: 150px;
+     margin-left: 80px;
+     margin-top: 30px;
+     color: rgb(221, 214, 214);
+     border-radius: 10px 10px;
+     background-color: rgb(230, 19, 65);
+}
+/* section second div end  */
+/* section thirad div start  */
+.header3{
+    height: 600px;
+    width: 100%;
+   background-image: url(pic/latest-work-bg.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+    
+}
+
+.header3 h1{
+     margin-left: 35%;
+     font-size: 40px;
+     margin-top: 70px;
+     color: black;
+}
+.header3 .name{
+    height: 600px;
+    width: 100%;
+    display: flex;
+}
+.name .work1{
+    width: 30%;
+    height: 500px;
+    margin-top: 80px;
+    margin-left: 30px;
+    background-image: url(pic/latest-work/work-1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+.name .work2{
+    width: 30%;
+    height: 500px;
+    margin-top: 80px;
+    margin-left: 30px;
+    background-image: url(pic/latest-work/work-2.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.name .work3{
+    width: 30%;
+    height: 500px;
+    margin-top: 80px;
+    margin-left: 30px;
+    background-image: url(pic/latest-work/work-3.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+    /* section thirad div end  */
+      /* section four div start  */
+ .header4{ 
+     height: 600px;
+     width: 100%;
+    background-image: url(pic/footer-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+ }
+ .header4{
+     height: 600px;
+     width: 100%;
+     /* background-color: rgb(96, 29, 219); */
+ }
+ .header_text h1{
+     margin-top: 150px;
+      font-size: 40px;
+      text-align: center;
+      margin-top: 30px;
+      color: black;
+ }
+ .header_text h2{
+     font-size: 30px;
+     text-align: center;
+     margin-top: 40px;
+     color: rgb(80, 18, 18);
+ }
+ .header_text h3{
+     font-size: 20px;
+     text-align: center;
+     margin-top: 15px;
+     color: rgb(64, 67, 66);
+ }
+ .header_text p{
+     font-size: 20px;
+     margin-left: 350px;
+     margin-top: 35px;
+     margin-right: 350px;
+     font-family: helvetica;
+ }
+ .button_text{
+     margin-left: 440px;
+     margin-top: 60px;
+     
+ }
+ .button_text .code{
+      height: 120px;
+      width: 400px;
+      background-color: rgb(221, 25, 25);
+      border-radius: 10px ;
+ }
+ .button_text .code h2{
+     font-size: 20px;
+     margin-bottom: 10px;
+     color: rgb(228, 205, 205);
+ }
+ .button_text .code h3{
+     font-size: 20px;
+     margin-bottom: 50px;
+     color: wheat;
+ }
+ footer p{
+     text-align: center;
+     margin-top: 90px;
+     font-size: 20px;
+     color: rgb(19, 18, 18);
+ }
+ footer p:hover{
+     color: brown;
+ }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
